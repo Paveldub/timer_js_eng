@@ -1,2 +1,2 @@
-Timer JavaScript eng
-Link: https://paveldub.github.io/Timer_JavaScript/index.html
+# Timer JavaScript eng
+Link: https://paveldub.github.io/timer_js_eng/
